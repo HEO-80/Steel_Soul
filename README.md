@@ -4,6 +4,14 @@
 
 > *"Every parry tells a story. Every blade has a soul."*
 
+<p align="center">
+  <img src="assets/promo/logo_steel_soul_v2.png" alt="Steel Soul Logo" width="700"/>
+</p>
+
+<p align="center">
+  <img src="assets/promo/hero_warrior_temple.png" alt="Steel Soul Hero" width="700"/>
+</p>
+
 ---
 
 ## 🎮 Visión del Proyecto
@@ -91,6 +99,10 @@ Cada arma tiene stats únicos que cambian completamente el estilo de combate:
 - Zonas secretas opcionales con jefes y armas ocultas
 
 ---
+
+<p align="center">
+  <img src="assets/promo/hero_warrior_dojo.jpg" alt="Steel Soul — Warrior in the Dojo" width="700"/>
+</p>
 
 ## 📈 Progresión del Personaje
 
@@ -292,6 +304,23 @@ steel_soul/
     ├── weapons.json
     └── enemies.json
 ```
+
+---
+
+## 🖼️ Galería
+
+<p align="center">
+  <img src="assets/promo/logo_steel_soul_v1.jpg" alt="Steel Soul Logo Alt" width="600"/>
+</p>
+<p align="center">
+  <img src="assets/promo/logo_steel_soul_v2.png" alt="Steel Soul Logo" width="600"/>
+</p>
+<p align="center">
+  <img src="assets/promo/hero_warrior_dojo.jpg" alt="Warrior — Destroyed Dojo" width="600"/>
+</p>
+<p align="center">
+  <img src="assets/promo/hero_warrior_temple.png" alt="Warrior — Moonlit Temple" width="600"/>
+</p>
 
 ---
 
